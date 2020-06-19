@@ -5,7 +5,7 @@ FractalFlames kann man mit z.b. JWildFire, AphPhysis oder Chaotica erstellen.
 
 * Java basiert
 * Aktuelle V 5.5
-* Speicherfresser
+* Speicherfresser!
 * gut erweiterbar mit jwfscript files
 > Zitat
 
